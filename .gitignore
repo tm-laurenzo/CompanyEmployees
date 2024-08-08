@@ -1,4 +1,5 @@
-
+# The is the git ignore for hotel booking api.
+# appsettings are ignored and not checked to source control
 # Created by https://www.gitignore.io/api/visualstudio
 
 ### VisualStudio ###
