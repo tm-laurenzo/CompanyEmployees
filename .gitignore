@@ -13,6 +13,7 @@
 *.user
 *.userosscache
 *.sln.docstates
+*.config
 
 
 # Build results
@@ -195,5 +196,5 @@ UpgradeLog*.htm
 hotel-booking-api/appsettings.json
 hotel-booking-api/appsettings.[Dd]evelopment.json
 hotel-booking-api/Logs
-
+internal_logs
 # End of https://www.gitignore.io/api/visualstudio
